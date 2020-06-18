@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5337a45-a14f-47eb-9408-55f679a1a8f3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/meeting-log/license" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meeting-log/license" beforeDir="false" afterPath="$PROJECT_DIR$/meeting-log/license" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
