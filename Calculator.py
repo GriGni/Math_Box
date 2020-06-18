@@ -7,4 +7,5 @@ def divide(a,b):
     return a/b;
 def mutiply(a,c):
     return a*c;
-
+def complex(a,b,c):
+    return a*b+c;
