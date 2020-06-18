@@ -19,11 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="b5337a45-a14f-47eb-9408-55f679a1a8f3" name="Default Changelist" comment="">
 <<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/meeting-log/license" beforeDir="false" afterPath="$PROJECT_DIR$/meeting-log/license" afterDir="false" />
 =======
+=======
+    <list default="true" id="dd9ff687-a641-4d17-b64f-0238fc245b18" name="Default Changelist" comment="">
+>>>>>>> master
       <change beforePath="$PROJECT_DIR$/Calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator.py" afterDir="false" />
 >>>>>>> master
     </list>
