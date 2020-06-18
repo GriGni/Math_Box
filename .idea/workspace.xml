@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5337a45-a14f-47eb-9408-55f679a1a8f3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/meeting-log/license" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,8 +63,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="910" y="236" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592479459175">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="910" y="236" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864/-2560.0.2560.1080@0.0.1536.864" timestamp="1592479459175" />
     <state x="837" y="30" width="584" height="804" key="find.popup" timestamp="1592444077702">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
