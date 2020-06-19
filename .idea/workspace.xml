@@ -19,9 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="0274c266-a14e-4166-8e17-8eaae5aa052d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/Calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator.py" afterDir="false" />
     </list>
+=======
+    <list default="true" id="dd9ff687-a641-4d17-b64f-0238fc245b18" name="Default Changelist" comment="" />
+>>>>>>> parent of 50ce98d... error .idea
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +48,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="dd9ff687-a641-4d17-b64f-0238fc245b18" name="Default Changelist" comment="" />
+      <changelist id="b5337a45-a14f-47eb-9408-55f679a1a8f3" name="Default Changelist" comment="" />
       <created>1592441680574</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
