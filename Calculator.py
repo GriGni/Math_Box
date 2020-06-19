@@ -9,5 +9,3 @@ def mutiply(a,c):
     return a*c;
 def complex(a,b,c):
     return a*b+c;
-def say_hello():
-    print("hello world");
