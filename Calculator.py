@@ -9,3 +9,5 @@ def mutiply(a,c):
     return a*c;
 def complex(a,b,c):
     return a*b+c;
+def square (a):
+    return a*a;
